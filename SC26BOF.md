@@ -27,16 +27,13 @@ This Birds-of-a-Feather session will bring together the community around softwar
 
 - [Dorian Arnold](https://dorianarnold.github.io)
 - [Mike Bernhardt](https://www.teamlibra.com/about)
-- [Anshu Dubey](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/)
 
 ## Lightning Speakers
 
 - [Stefan Wild](https://wildsm.github.io/), Lawrence Berkeley National Laboratory
 - [Mary Ann Leung](https://shinstitute.org/mary-ann-leung-founder-and-president-2/), Sustainable Horizons Institute
-- [Jérôme Bobin](http://jerome-bobin.fr), CEA, France
 - [Olivia Newton](https://oliviabnewton.com/about/), University of Montana
 - [Prasanna Balaprakash](https://pbalapra.github.io/index.html), PrimaLabs
-- [Arfon Smith](https://www.schmidtsciences.org/person/arfon-smith/), Schmidt Sciences, UK
 - More to be announced
 
 ## Abstract
@@ -61,6 +58,6 @@ The primary outcome of this BOF will be a community-informed set of priorities a
 
 ## Session Format
 
-This BOF is designed as an interactive, moderated community discussion rather than a sequence of presentations. The session opens with five minutes of framing remarks, followed by 3-minute lightning talks that introduce key themes. Tentative lightning speakers are Stefan Wild (Lawrence Berkeley National Laboratory), Jérôme Bobin (CEA, France), Mary Ann Leung (Sustainable Horizons Institute), Arfon Smith (Schmidt Sciences, UK), and Olivia Newton (University of Montana). Each speaker will conclude with a question to launch audience discussion rather than provide a conclusion. The majority of the session will be devoted to structured audience participation using moderated discussion, live polling, and guided prompts to encourage participation from attendees across disciplines. The moderators will synthesize recurring themes, identify areas of consensus and disagreement, and invite brief responses from the lightning speakers when appropriate. The session will conclude with a summary of community priorities, open questions, and next steps that can inform future collaborations and community initiatives.
+This BOF is designed as an interactive, moderated community discussion rather than a sequence of presentations. The session opens with five minutes of framing remarks, followed by 3-minute lightning talks that introduce key themes. Tentative lightning speakers are Stefan Wild (Lawrence Berkeley National Laboratory), Mary Ann Leung (Sustainable Horizons Institute), and Olivia Newton (University of Montana). Each speaker will conclude with a question to launch audience discussion rather than provide a conclusion. The majority of the session will be devoted to structured audience participation using moderated discussion, live polling, and guided prompts to encourage participation from attendees across disciplines. The moderators will synthesize recurring themes, identify areas of consensus and disagreement, and invite brief responses from the lightning speakers when appropriate. The session will conclude with a summary of community priorities, open questions, and next steps that can inform future collaborations and community initiatives.
 
 [Back to the home page](./)

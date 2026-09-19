@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Next-Generation Scientific Ecosystems</title>
+  <desc id="desc">A connected scientific network forming a forward arrow.</desc>
+
+  <!-- Deep blue suggests scientific rigor; the rounded tile stays legible in browser tabs. -->
+  <rect width="64" height="64" rx="14" fill="#102A43"/>
+
+  <!-- The connected nodes represent an ecosystem; their silhouette points forward. -->
+  <g fill="none" stroke="#55D6BE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 18 32 32 18 46M32 32h14"/>
+  </g>
+
+  <!-- High-contrast nodes remain distinct down to favicon scale. -->
+  <g fill="#F3F8FC" stroke="#102A43" stroke-width="2">
+    <circle cx="18" cy="18" r="5"/>
+    <circle cx="18" cy="46" r="5"/>
+    <circle cx="32" cy="32" r="5"/>
+  </g>
+  <circle cx="47" cy="32" r="6" fill="#B8F34A" stroke="#102A43" stroke-width="2"/>
+</svg>

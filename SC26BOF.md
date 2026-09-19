@@ -7,6 +7,8 @@ title: SC26 BOF on Ecosystems for Scientific Computing in the Age of AI
 
 This Birds-of-a-Feather session will bring together the community around software, research workflows, and AI-enabled scientific computing.
 
+![MCS CoDesign 2](/assets/MCSCodesign2.jpg)
+
 ## Session Details
 
 - Date and time: Tuesday, November 17, 5:15-6:45 pm CT

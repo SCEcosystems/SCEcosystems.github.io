@@ -1,4 +1,4 @@
 remote_theme: pages-themes/tactile@v0.2.0
-description: ""
+description: "Resources, events, and references for next-generation ecosystems in scientific computing."
 plugins:
   - jekyll-remote-theme

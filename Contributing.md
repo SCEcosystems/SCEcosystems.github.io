@@ -1,0 +1,78 @@
+# Contributing to SCEcosystems.github.io
+
+Thank you for your interest in contributing to SCEcosystems.github.io! This document provides guidelines and instructions for contributing to this project.
+
+## Code of Conduct
+
+This project and everyone participating in it is governed by our [Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+
+## How to Contribute
+
+### Reporting Bugs
+
+Before creating bug reports, please check the issue list as you might find out that you don't need to create one. When you are creating a bug report, please include as many details as possible:
+
+- **Use a clear and descriptive title**
+- **Describe the exact steps which reproduce the problem**
+- **Provide specific examples to demonstrate the steps**
+- **Describe the behavior you observed after following the steps**
+- **Explain which behavior you expected to see instead and why**
+- **Include screenshots and animated GIFs if possible**
+- **Include your environment details** (OS, browser, browser version, screen size, and the page URL)
+
+### Suggesting Enhancements
+
+Enhancement suggestions are tracked as GitHub issues. When creating an enhancement suggestion, please include:
+
+- **Use a clear and descriptive title**
+- **Provide a step-by-step description of the suggested enhancement**
+- **Provide specific examples to demonstrate the steps**
+- **Describe the current behavior and the proposed behavior**
+- **Explain why this enhancement would be useful**
+- **Note any layout or responsiveness concerns across screen sizes or browsers**
+
+### Pull Requests
+
+- Keep changes focused and easy to review
+- Update navigation, links, and references together when needed
+- Keep Markdown, HTML, and CSS consistent with the existing site style
+- End all files with a newline
+- Preview the site locally if possible and check for broken links or layout regressions
+- Include appropriate commit messages
+
+## Development Setup
+
+1. Fork the repository
+2. Clone your fork: `git clone https://github.com/SCEcosystems/SCEcosystems.github.io.git`
+3. Create a new branch: `git checkout -b feature/my-feature`
+4. Make your changes in Markdown, HTML, CSS, or site assets
+5. Preview the site locally if you can. A typical Jekyll workflow is:
+   ```bash
+   bundle install
+   bundle exec jekyll serve
+   ```
+6. Check the rendered pages for formatting, responsive layout, and broken links
+7. Commit your changes: `git commit -am "Add my feature"`
+8. Push to the branch: `git push origin feature/my-feature`
+9. Submit a pull request
+
+## Guidelines for AI/LLM-Assisted Contributions
+
+- **Remain accountable for all your outputs and decisions.**
+   Individuals remain fully responsible and accountable for the accuracy, quality, appropriateness, and consequences of their work. Use of AI does not transfer this responsibility to the AI model, agent, or other tool.
+- **Understand your work.**
+   Regardless of how code or PR was produced, this project requires that authors illustrate a thorough understanding of any proposed changes. You must review such code line-by-line; it is your responsibility to ensure that it is correct, and that it does not breach copyright. Always critically engage with AI outputs, do not trust them implicitly. AI-assisted code, analysis, and artifacts must be tested and validated at a level appropriate to their impact. Authors are responsible for ensuring that generated code is correct, secure, maintainable, non-obfuscated, appropriately scoped, documented, and reproducible where relevant.
+- **Disclose AI-generated or AI-assisted work.**
+   If AI/LLM tools were primarily used to generate code or artifacts, this should be clearly indicated in the PR. 
+- **Use of AI to review PRs.**
+   All PRs must be reviewed by a human reviewer. An LLM review may be used in addition to a human reviewer since this can help spot issues that a human may have missed, but this should not be the sole reviewer. The human reviewer should be fully accountable and responsible for the review feedback or comments (see 1).
+- **Proprietary or personal information.**
+   For this project, proprietary or personal information should never be sent to code generators or AI tools.
+- **Be transparent, assume goodwill, and share what you learn.**
+   Contributors should be open about relevant AI use, disclose details of AI use as appropriate to the project, engage constructively with colleagues, and share experiences and lessons learned with the project.
+
+## Questions?
+
+Feel free to open an issue with the label `question` if you have any questions.
+
+Thank you for contributing!

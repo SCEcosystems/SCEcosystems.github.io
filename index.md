@@ -9,7 +9,7 @@ Motivated by urgent findings from recent community reports on scientific softwar
 
 ![MCS CoDesign](/assets/MCSCoDesign1.jpg)
 
-# Recent Activities
+## Recent Activities {#recent-activities}
 
 - November 2026: [SC26 BOF on Ecosystems for Scientific Computing in the Age of AI](./SC26BOF.md)
 
@@ -19,7 +19,7 @@ Motivated by urgent findings from recent community reports on scientific softwar
 - April 2025: [Workshop on Harnessing community, software, and AI for cross-disciplinary science](https://events.cels.anl.gov/event/602/)
   - Workshop report: *Report of the 2025 Workshop on Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Cross-Disciplinary Team Science.* L. C. McInnes, D. Arnold, P. Balaprakash, M. Bernhardt, B. Cerny, A. Dubey, R. Giles, D. W. Hood, M. A. Leung, V. López-Marrero, P. Messina, O. B. Newton, C. Oehmen, S. M. Wild, J. Willenbring, L. Woodley, T. Baylis, D. E. Bernholdt, C. Camaño, J. Cohoon, C. Ferenbaugh, S. M. Fiore, S. Gesing, D. Gómez-Zará, J. Howison, T. Islam, D. Kepczynski, C. Lively, H. Menon, B. Messer, M. Ngom, U. Paliath, M. E. Papka, I. Qualters, E. M. Raybourn, K. Riley, P. Rodriguez, D. Rouson, M. Schwalbe, S. K. Seal, Ö. Sürer, V. Taylor, and L. Wu. Report ANL-25/47, 2025. [arXiv:2510.03413](https://doi.org/10.48550/arXiv.2510.03413)
 
-# Related References
+## Related References {#related-references}
 
 - Michael A. Heroux, David E. Bernholdt, Lois Curfman McInnes, John R. Cary, Daniel S. Katz, Elaine M. Raybourn, and Damian Rouson. *Basic Research Needs in the Science of Scientific Software Development and Use.* US DOE, Advanced Scientific Computing Research, 2023. [doi:10.2172/1846009](https://doi.org/10.2172/1846009)
 

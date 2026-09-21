@@ -32,6 +32,7 @@ This Birds-of-a-Feather session will bring together the community around softwar
 
 - [Stefan Wild](https://wildsm.github.io/), Lawrence Berkeley National Laboratory
 - [Mary Ann Leung](https://shinstitute.org/mary-ann-leung-founder-and-president-2/), Sustainable Horizons Institute
+- [Thomas Herault](https://topal.gitlabpages.inria.fr/members/), INRIA
 - [Olivia Newton](https://oliviabnewton.com/about/), University of Montana
 - [Prasanna Balaprakash](https://pbalapra.github.io/index.html), PrimaLabs
 - More to be announced

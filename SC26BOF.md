@@ -25,8 +25,8 @@ This Birds-of-a-Feather session will bring together the community around softwar
 
 ## Moderators
 
-- [Dorian Arnold](https://dorianarnold.github.io)
 - [Mike Bernhardt](https://www.teamlibra.com/about)
+- [Lois Curfman McInnes](https://wordpress.cels.anl.gov/curfman/)
 
 ## Lightning Speakers
 

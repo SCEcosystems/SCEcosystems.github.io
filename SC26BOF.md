@@ -16,7 +16,7 @@ This Birds-of-a-Feather session will bring together the community around softwar
 ## Co-organizers
 
 - [Lois Curfman McInnes](https://wordpress.cels.anl.gov/curfman/), Argonne National Laboratory
-- [Anshu Dubey](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/), RIKEN R-CCS, Japan
+- [Anshu Dubey](https://www.linkedin.com/in/anshu-dubey-0bb3469/), RIKEN R-CCS, Japan
 - [Dorian Arnold](https://dorianarnold.github.io), Emory University
 - [Prasanna Balaprakash](https://pbalapra.github.io/index.html), PrimaLabs
 - [Mike Bernhardt](https://www.teamlibra.com/about), Team Libra

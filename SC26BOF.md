@@ -25,12 +25,12 @@ This Birds-of-a-Feather session will bring together the community around softwar
 
 ## Moderators
 
-- [Mike Bernhardt](https://www.teamlibra.com/about)
 - [Lois Curfman McInnes](https://wordpress.cels.anl.gov/curfman/)
+- [Stefan Wild](https://wildsm.github.io/)
 
 ## Lightning Speakers
 
-- [Stefan Wild](https://wildsm.github.io/), Lawrence Berkeley National Laboratory
+- [Franck Cappello](https://www.anl.gov/profile/franck-cappello), Argonne National Laboratory
 - [Mary Ann Leung](https://shinstitute.org/mary-ann-leung-founder-and-president-2/), Sustainable Horizons Institute
 - [Thomas Herault](https://topal.gitlabpages.inria.fr/members/), INRIA
 - [Olivia Newton](https://oliviabnewton.com/about/), University of Montana

@@ -26,7 +26,7 @@ This Birds-of-a-Feather session will bring together the community around softwar
 ## Moderators
 
 - [Lois Curfman McInnes](https://wordpress.cels.anl.gov/curfman/)
-- [Stefan Wild](https://wildsm.github.io/)
+- [Stefan Wild](https://wildsm.github.io/), Lawrence Berkeley National Laboratory
 
 ## Lightning Speakers
 

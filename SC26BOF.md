@@ -34,6 +34,7 @@ This Birds-of-a-Feather session will bring together the community around softwar
 - [Mary Ann Leung](https://shinstitute.org/mary-ann-leung-founder-and-president-2/), Sustainable Horizons Institute
 - [Thomas Herault](https://topal.gitlabpages.inria.fr/members/), INRIA
 - [Olivia Newton](https://oliviabnewton.com/about/), University of Montana
+- [Anshu Dubey](https://www.linkedin.com/in/anshu-dubey-0bb3469/), RIKEN R-CCS, Japan
 - [Prasanna Balaprakash](https://pbalapra.github.io/index.html), PrimaLabs
 - More to be announced
 

@@ -31,12 +31,11 @@ This Birds-of-a-Feather session will bring together the community around softwar
 ## Lightning Speakers
 
 - [Franck Cappello](https://www.anl.gov/profile/franck-cappello), Argonne National Laboratory
-- [Mary Ann Leung](https://shinstitute.org/mary-ann-leung-founder-and-president-2/), Sustainable Horizons Institute
+- [Nitin Sukhija](https://shinstitute.org/nitin-sukhija/), Sustainable Horizons Institute
 - [Thomas Herault](https://topal.gitlabpages.inria.fr/members/), INRIA
 - [Olivia Newton](https://oliviabnewton.com/about/), University of Montana
 - [Anshu Dubey](https://www.linkedin.com/in/anshu-dubey-0bb3469/), RIKEN R-CCS, Japan
 - [Prasanna Balaprakash](https://pbalapra.github.io/index.html), PrimaLabs
-- More to be announced
 
 ## Abstract
 

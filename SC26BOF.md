@@ -20,7 +20,7 @@ This Birds-of-a-Feather session will bring together the community around softwar
 - [Dorian Arnold](https://dorianarnold.github.io), Emory University
 - [Prasanna Balaprakash](https://pbalapra.github.io/index.html), PrimaLabs
 - [Mike Bernhardt](https://www.teamlibra.com/about), Team Libra
-- [Thomas Herault](https://topal.gitlabpages.inria.fr/members/), INRIA
+- [Thomas Herault](https://topal.gitlabpages.inria.fr/members/), INRIA, France
 - [Keita Teranishi](https://www.ornl.gov/staff-profile/keita-teranishi), Oak Ridge National Laboratory
 
 ## Moderators

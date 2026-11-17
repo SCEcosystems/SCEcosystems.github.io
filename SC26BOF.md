@@ -32,7 +32,7 @@ This Birds-of-a-Feather session will bring together the community around softwar
 
 - [Franck Cappello](https://www.anl.gov/profile/franck-cappello), Argonne National Laboratory
 - [Nitin Sukhija](https://shinstitute.org/nitin-sukhija/), Sustainable Horizons Institute
-- [Thomas Herault](https://topal.gitlabpages.inria.fr/members/), INRIA
+- [Thomas Herault](https://topal.gitlabpages.inria.fr/members/), INRIA, France
 - [Olivia Newton](https://oliviabnewton.com/about/), University of Montana
 - [Anshu Dubey](https://www.linkedin.com/in/anshu-dubey-0bb3469/), RIKEN R-CCS, Japan
 - [Prasanna Balaprakash](https://pbalapra.github.io/index.html), PrimaLabs
